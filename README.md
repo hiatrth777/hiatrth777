@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @hiatrth777
+- 👋 Hi, I’m @hitarth777
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ..C and C++
 - 💞️ I’m looking to collaborate on ...internship
 - 📫 How to reach me ...vyashitarth777@gmail.com
 
 <!---
-hiatrth777/hiatrth777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hitarth777/hitarth777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
